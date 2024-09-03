@@ -1,0 +1,12 @@
+{
+  "name": "cucumber_pom_integration",
+  "version": "1.0.0",
+  "description": "This repo is created to to Integrate cucumber framework to POM",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
